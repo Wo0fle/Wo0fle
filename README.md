@@ -1,5 +1,5 @@
 - Hello, I'm Woofle, AKA Seby
 - random things will be coded
-- Learning JavaScript and C++
+- Learning Java, JavaScript, and C++
 - Check out all my stuff at this link!
   - https://linktr.ee/sebyamador
