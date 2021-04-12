@@ -1,4 +1,4 @@
-- Hello, I'm Woofle, AKA Seby
+- Hello, I'm Woofle, A.K.A. Seby
 - random things will be coded
 - Learning a lot of languages (too many, probably)
 - Check out all my stuff at this link!
