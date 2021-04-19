@@ -1,5 +1,5 @@
 - Hello, I'm Woofle, A.K.A. Seby
 - random things will be coded
-- Learning a lot of languages (too many, probably)
+- Learning Haxe and JavaScript
 - Check out all my stuff at this link!
   - https://linktr.ee/sebyamador
