@@ -1,6 +1,4 @@
 - Hello, I'm Woofle, A.K.A. Seby
-- random things will be coded
-- Learning Java in school
-- Learning HaxeFlixel and HTML/CSS on my own
+- random things will be coded maybe
 - Check out all my stuff at this link!
   - https://linktr.ee/sebyamador
