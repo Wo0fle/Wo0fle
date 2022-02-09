@@ -1,4 +1,4 @@
 - Hello, I'm Woofle, A.K.A. Seby
-- random things will be coded maybe
+- random things will be coded
 - Check out all my stuff at this link!
   - https://linktr.ee/sebyamador
