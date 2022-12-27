@@ -2,4 +2,4 @@
 
 (17, he/him)
 
-https://linktr.ee/wo0fle
+https://wo0fle.github.io/links/
